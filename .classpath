@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json path/docs/json-path-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json path/docs/json-path-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json path/docs/rest-assured-common-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json path/docs/rest-assured-common-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json path/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json path/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json path/groovy-json-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json path/json-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/json-schema-validator-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/docs/json-schema-validator-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json schema/docs/json-schema-validator-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/kotlin-extensions-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/kotlin-stdlib-1.3.50.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/kotlin-stdlib-common-1.3.50.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/kotlin-stdlib-jdk7-1.3.50.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/kotlin extensions/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/scala support/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/scala support/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/scala support/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/scala support/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/scala support/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/scala support/scala-library-2.13.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/scala support/scala-support-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-aop-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-beans-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-commons-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-context-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-core-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-expression-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-mock-mvc-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-test-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-web-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring mock/spring-webmvc-4.3.23.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/reactive-streams-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/reactor-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-aop-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-beans-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-commons-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-context-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-core-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-expression-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-jcl-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-test-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-web-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-webflux-5.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/spring web/spring-web-test-client-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/groovy-xml-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/xml-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/docs/rest-assured-common-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/docs/rest-assured-common-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/docs/xml-path-4.1.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/xml path/docs/xml-path-4.1.1-sources.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/json-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/groovy-json-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/groovy-xml-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/json-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/rest-assured-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/rest-assured-common-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar/xml-path-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar1/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar1/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar1/rest-assured-common-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/groovy-json-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/groovy-xml-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/rest-assured-all-4.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/new rest-assured 4.1.1/jar2/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/rest assured jars/testng-6.9.9.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
